@@ -1,0 +1,40 @@
+{
+  "animals": [
+    {
+      "type": "cat",
+      "name": "Sneshka",
+      "age": 16,
+      "bread": "white cat"
+    },
+    {
+      "type": "cat",
+      "name": "Willy",
+      "age": 4,
+      "bread": "abessinian"
+    },
+    {
+      "type": "cat",
+      "name": "Lewis",
+      "age": 3,
+      "bread": "abessinian"
+    },
+    {
+      "type": "cat",
+      "name": "Peach",
+      "age": 3,
+      "bread": "red cat"
+    },
+    {
+      "type": "cat",
+      "name": "Lyusya",
+      "age": 12,
+      "bread": "Persian"
+    },
+    {
+      "type": "cat",
+      "name": "Alisa",
+      "age": 11,
+      "bread": "Persian"
+    }
+  ]
+}
